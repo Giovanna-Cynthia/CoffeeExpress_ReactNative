@@ -1,0 +1,18 @@
+{
+  "produtos": [
+    {
+      "id": "195b",
+      "name": "Cappuccino Tradicional",
+      "descriptionComplet": "Uma combinação clássica de café espresso, leite vaporizado e espuma cremosa no topo. Levemente aromatizado com chocolate em pó ou canela, oferece um equilíbrio perfeito entre o sabor intenso do café e a suavidade do leite, ideal para qualquer momento do dia.",
+      "price": 4,
+      "image": "http://10.92.198.33:8081/assets/?unstable_path=.%2Fsrc%2FImages%2Fcafe+com+leite.png&platform=android&hash=27ac49aa29d5ae41578456504317fa36"
+    },
+    {
+      "id": "2169",
+      "name": "Cappuccino de Canela",
+      "descriptionComplet": "O tradicional cappuccino ganha um toque especial com o aroma quente e envolvente da canela, que realça o sabor do café e adiciona um perfil levemente picante e acolhedor.",
+      "price": 8,
+      "image": "http://10.92.198.33:8081/assets/?unstable_path=.%2Fsrc%2FImages%2Fcappucino.png&platform=android&hash=18b0accc7608b02346fb37f73365ef0c"
+    }
+  ]
+}
